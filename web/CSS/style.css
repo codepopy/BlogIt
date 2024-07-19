@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+
+*{
+    prefers-reduced-motion: no-preference;
+        
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #F4F4F4;
+}
+
+.primary-color{
+    background: #6610F2!important;
+}
+#sitename{
+    font-family: 'DM Serif Display', serif;
+    font-size: 2em;
+}
+
+.serif_font{
+    font-family: 'DM Serif Display', serif !important;
+}
+
+.gradient{
+    background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(102,98,98,1) 100%, rgba(255,255,255,1) 100%)!important;
+}
+
+.serif_para_font{
+    font-family: 'PT Serif', serif !important;
+}
+
+.glitch_font{
+    font-family: 'Press Start 2P', cursive !important;
+}
+.glitch_font_text{
+    font-family: 'VT323', monospace !important;
+}
+
+.serif_para_font{
+    font-family: 'PT Serif', serif !important;
+}
+
+.txt-red{
+    color: rgb(202,34,34)!important;
+}
+
+.main_text_font{
+    font-family: 'Share Tech Mono', monospace!important;
+}
+
+.button-red-hover:hover{
+    background: rgb(202,34,34); 
+}
+
+
+
+
